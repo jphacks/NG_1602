@@ -28,9 +28,11 @@
 ##開発技術
 
 ・ 活用した外部技術
+
    Unity,AndroidStudio,VisualStudio
-・フレームワーク・ライブラリ・モジュール
+
 ・デバイス
+
 　android(4.03以上,bluetooth対応)
    Windows PC(bluetooth対応)
 
